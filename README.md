@@ -63,5 +63,5 @@ Organize your board around your deliverables:
 To help you navigate this blueprint, use the following links to explore the live configuration and deep-dive into the setup:
 
 * **[Live Project Board](https://github.com/orgs/dcsil/projects/108/views/2):** View the sample Kanban board in action to see how Issues, Labels, and Milestones are visualized.
-* **[Project Architecture & Settings](https://github.com/orgs/dcsil/projects/108/settings):** Explore how the backend of the project is configured, including custom fields and automated workflows.
+* **[Project Board Settings](https://github.com/orgs/dcsil/projects/108/settings):** Explore how the backend of the project is configured, including custom fields and automated workflows.
 * **[Manifest Configuration Guide](./docs):** Visit the `/docs` directory to learn how the labels, milestones, and issue templates in this repository were designed and implemented.
