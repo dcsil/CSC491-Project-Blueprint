@@ -5,7 +5,19 @@ This repository serves as a functional reference and starter guide for implement
 > [!IMPORTANT]
 > This repository is a **blueprint**, not a literal template to be copied. You should build your own project board from scratch to best reflect your team's specific needs and unique project architecture.
 
---
+
+---
+
+## ⚠️ CSC491 Project Board
+
+This repository is linked to the **[Live Project Board](https://github.com/orgs/dcsil/projects/108/views/2)**. Use it solely as a visual reference of project status.
+
+* Do **not** add tasks, cards, or comments directly to this board. You cannot do manual "drag-and-drop" overrides in project view.
+* Use strictly **code to drive the board status**, not manual intervention. This means you can create your own custom [GitHub Workflows](https://github.com/dcsil/CSC491-Project-Blueprint/tree/main/.github/workflows) to automate label assignments or trigger card movement between columns.
+* Use the project board to observe the current lifecycle of issues. It is a **real-time** representation of ongoing work; it does not function as a static to-do list but rather as a mirror of development activity.
+* The project board has no versioning or history or **snapshot** feature. Status updates are only captured visually in the present moment. You cannot scroll back to view the board's state from previous weeks. Use this for immediate visibility, not as a historical record.
+
+---
 
 ## 🚀 Why This Workflow?
 
