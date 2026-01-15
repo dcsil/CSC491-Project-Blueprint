@@ -5,6 +5,8 @@ This repository serves as a functional reference and starter guide for implement
 > [!IMPORTANT]
 > This repository is a **blueprint**, not a literal template to be copied. You should build your own project board from scratch to best reflect your team's specific needs and unique project architecture.
 
+--
+
 ## 🚀 Why This Workflow?
 
 We utilize GitHub Projects not just as a static management tool, but as a dynamic engine for **Sprinting**. By keeping our planning exactly where our code lives, we eliminate the "tooling gap" and maintain constant momentum.
@@ -53,3 +55,13 @@ Organize your board around your deliverables:
 * **Keep it Current:** If you start a task, move it to "In Progress."
 * **Link Everything:** Never open a PR without linking it to an Issue.
 * **Clean Up:** Periodically archive items in the "Done" column after a successful Release.
+
+---
+
+## 🔗 Useful Resources & References
+
+To help you navigate this blueprint, use the following links to explore the live configuration and deep-dive into the setup:
+
+* **[Live Project Board](https://github.com/orgs/dcsil/projects/108/views/2):** View the sample Kanban board in action to see how Issues, Labels, and Milestones are visualized.
+* **[Project Architecture & Settings](https://github.com/orgs/dcsil/projects/108/settings):** Explore how the backend of the project is configured, including custom fields and automated workflows.
+* **[Manifest Configuration Guide](./docs):** Visit the `/docs` directory to learn how the labels, milestones, and issue templates in this repository were designed and implemented.
