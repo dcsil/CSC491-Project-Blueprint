@@ -58,7 +58,7 @@ Organize your board around your deliverables:
 
 ---
 
-## 🔗 Useful Resources & References
+## 🔗 Useful Links
 
 To help you navigate this blueprint, use the following links to explore the live configuration and deep-dive into the setup:
 
